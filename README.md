@@ -1,6 +1,6 @@
 # WirelessRL
 # WirelessRL
-A simple research-oriented Python project for learning Reinforcement Learning through
+A simple research-oriented Python project- Reinforcement Learning for
 beam selection in Massive MIMO wireless communication systems.
 
 ## Objectives
